@@ -1,26 +1,78 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { deltPics } from "./pics.js";
+import Pic from "./picComponent.js";
+import Pic2 from "./picComponent2.js";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default class App extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+  currentDay = () => {
+    let d = new Date();
+    let months = [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ];
+    return (
+      <span>
+        {months[d.getMonth()]} {d.getDate()}
+      </span>
+    );
+  };
+
+  render() {
+    return (
+      <div className="App">
+        <h1>ACTIVE CONTRACTS {this.currentDay()}</h1>
+        <div className="Table">
+          <div className="Row">
+            <Pic2 number={deltPics[0]} />
+            <Pic number={deltPics[1]} />
+            <Pic number={deltPics[2]} />
+            <Pic number={deltPics[3]} />
+          </div>
+          <div className="Row">
+            <Pic number={deltPics[4]} />
+            <Pic number={deltPics[5]} />
+            <Pic number={deltPics[6]} />
+            <Pic number={deltPics[7]} />
+          </div>
+          <div className="Row">
+            <Pic number={deltPics[8]} />
+            <Pic2 number={deltPics[9]} />
+            <Pic number={deltPics[10]} />
+            <Pic number={deltPics[11]} />
+          </div>
+          <div className="Row">
+            <Pic number={deltPics[12]} />
+            <Pic number={deltPics[13]} />
+            <Pic number={deltPics[14]} />
+            <Pic number={deltPics[15]} />
+          </div>
+          <div className="Row">
+            <Pic number={deltPics[16]} />
+            <Pic number={deltPics[17]} />
+            <Pic number={deltPics[18]} />
+            <Pic2 number={deltPics[19]} />
+          </div>
+          <div className="Row">
+            <Pic number={deltPics[20]} />
+            <Pic number={deltPics[21]} />
+            <Pic number={deltPics[22]} />
+          </div>
+        </div>
+      </div>
+    );
+  }
 }
-
-export default App;
