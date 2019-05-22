@@ -40,34 +40,44 @@ export default class App extends React.Component {
             <Pic2 number={deltPics[0]} />
             <Pic number={deltPics[1]} />
             <Pic number={deltPics[2]} />
-            <Pic number={deltPics[3]} />
+
           </div>
           <div className="Row">
+            <Pic number={deltPics[3]} />
             <Pic number={deltPics[4]} />
             <Pic number={deltPics[5]} />
-            <Pic number={deltPics[6]} />
-            <Pic number={deltPics[7]} />
+
           </div>
           <div className="Row">
+            <Pic number={deltPics[6]} />
+            <Pic number={deltPics[7]} />
             <Pic number={deltPics[8]} />
+
+          </div>
+          <div className="Row">
             <Pic2 number={deltPics[9]} />
             <Pic number={deltPics[10]} />
             <Pic number={deltPics[11]} />
+
           </div>
           <div className="Row">
             <Pic number={deltPics[12]} />
             <Pic number={deltPics[13]} />
             <Pic number={deltPics[14]} />
-            <Pic number={deltPics[15]} />
+
           </div>
           <div className="Row">
+            <Pic number={deltPics[15]} />
             <Pic number={deltPics[16]} />
             <Pic number={deltPics[17]} />
-            <Pic number={deltPics[18]} />
-            <Pic2 number={deltPics[19]} />
+
           </div>
           <div className="Row">
+            <Pic number={deltPics[18]} />
+            <Pic2 number={deltPics[19]} />
             <Pic number={deltPics[20]} />
+          </div>
+          <div className="Row">
             <Pic number={deltPics[21]} />
             <Pic number={deltPics[22]} />
           </div>
