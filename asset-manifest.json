@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/assassin/static/css/main.c1c37d8b.chunk.css",
-    "main.js": "/assassin/static/js/main.f3457c88.chunk.js",
-    "main.js.map": "/assassin/static/js/main.f3457c88.chunk.js.map",
+    "main.css": "/assassin/static/css/main.21053b57.chunk.css",
+    "main.js": "/assassin/static/js/main.9bc8437e.chunk.js",
+    "main.js.map": "/assassin/static/js/main.9bc8437e.chunk.js.map",
     "runtime~main.js": "/assassin/static/js/runtime~main.10bcc0a3.js",
     "runtime~main.js.map": "/assassin/static/js/runtime~main.10bcc0a3.js.map",
     "static/js/2.d6a534e5.chunk.js": "/assassin/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/assassin/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/assassin/index.html",
-    "precache-manifest.a3c065736a1942584b44624f4772609d.js": "/assassin/precache-manifest.a3c065736a1942584b44624f4772609d.js",
+    "precache-manifest.ee51b5bfa9cbfb2b739748b0c428416b.js": "/assassin/precache-manifest.ee51b5bfa9cbfb2b739748b0c428416b.js",
     "service-worker.js": "/assassin/service-worker.js",
-    "static/css/main.c1c37d8b.chunk.css.map": "/assassin/static/css/main.c1c37d8b.chunk.css.map"
+    "static/css/main.21053b57.chunk.css.map": "/assassin/static/css/main.21053b57.chunk.css.map"
   }
 }
