@@ -21,5 +21,6 @@ export const deltPics = [
   "https://i.imgur.com/eayMsY7.jpg",
   "https://i.imgur.com/syxIGE9.jpg",
   "https://i.imgur.com/qw1dmc8.jpg",
-  "https://i.imgur.com/GxpWyd8.jpg"
+  "https://i.imgur.com/GxpWyd8.jpg",
+  "https://i.imgur.com/K4MYaTu.jpg"
 ];

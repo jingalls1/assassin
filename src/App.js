@@ -80,6 +80,7 @@ export default class App extends React.Component {
           <div className="Row">
             <Pic number={deltPics[21]} />
             <Pic number={deltPics[22]} />
+            <Pic number={deltPics[23]} />
           </div>
         </div>
       </div>
