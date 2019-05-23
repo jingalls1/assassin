@@ -44,7 +44,7 @@ export default class App extends React.Component {
           </div>
           <div className="Row">
             <Pic number={deltPics[3]} />
-            <Pic number={deltPics[4]} />
+            <Pic2 number={deltPics[4]} />
             <Pic number={deltPics[5]} />
 
           </div>
