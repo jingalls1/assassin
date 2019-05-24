@@ -38,49 +38,49 @@ export default class App extends React.Component {
         <div className="Table">
           <div className="Row">
             <Pic2 number={deltPics[0]} />
-            <Pic number={deltPics[1]} />
+            <Pic2 number={deltPics[1]} />
             <Pic number={deltPics[2]} />
 
           </div>
           <div className="Row">
-            <Pic number={deltPics[3]} />
+            <Pic2 number={deltPics[3]} />
             <Pic2 number={deltPics[4]} />
             <Pic number={deltPics[5]} />
 
           </div>
           <div className="Row">
-            <Pic number={deltPics[6]} />
+            <Pic2 number={deltPics[6]} />
             <Pic number={deltPics[7]} />
             <Pic number={deltPics[8]} />
 
           </div>
           <div className="Row">
             <Pic2 number={deltPics[9]} />
-            <Pic number={deltPics[10]} />
+            <Pic2 number={deltPics[10]} />
             <Pic number={deltPics[11]} />
 
           </div>
           <div className="Row">
-            <Pic number={deltPics[12]} />
+            <Pic2 number={deltPics[12]} />
             <Pic number={deltPics[13]} />
             <Pic2 number={deltPics[14]} />
 
           </div>
           <div className="Row">
-            <Pic number={deltPics[15]} />
-            <Pic number={deltPics[16]} />
+            <Pic2 number={deltPics[15]} />
+            <Pic2 number={deltPics[16]} />
             <Pic number={deltPics[17]} />
 
           </div>
           <div className="Row">
-            <Pic number={deltPics[18]} />
+            <Pic2 number={deltPics[18]} />
             <Pic2 number={deltPics[19]} />
-            <Pic number={deltPics[20]} />
+            <Pic2 number={deltPics[20]} />
           </div>
           <div className="Row">
             <Pic2 number={deltPics[21]} />
             <Pic number={deltPics[22]} />
-            <Pic number={deltPics[23]} />
+            <Pic2 number={deltPics[23]} />
           </div>
         </div>
       </div>
