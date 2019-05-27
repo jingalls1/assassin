@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e657eca1ebbbd56e4feb9285b25d51a",
+    "revision": "021d7ee4add3a8e36f4fd3f63b880e2a",
     "url": "/assassin/index.html"
   },
   {
-    "revision": "7a8af744cf405c05a756",
+    "revision": "b4a7be10b67404544887",
     "url": "/assassin/static/css/main.21053b57.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/assassin/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "7a8af744cf405c05a756",
-    "url": "/assassin/static/js/main.504ae043.chunk.js"
+    "revision": "b4a7be10b67404544887",
+    "url": "/assassin/static/js/main.0d154c67.chunk.js"
   },
   {
     "revision": "ee7deeb8873c451a9c10",
