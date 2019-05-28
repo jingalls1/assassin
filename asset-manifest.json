@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/assassin/static/css/main.21053b57.chunk.css",
-    "main.js": "/assassin/static/js/main.0d154c67.chunk.js",
-    "main.js.map": "/assassin/static/js/main.0d154c67.chunk.js.map",
+    "main.js": "/assassin/static/js/main.427002c4.chunk.js",
+    "main.js.map": "/assassin/static/js/main.427002c4.chunk.js.map",
     "runtime~main.js": "/assassin/static/js/runtime~main.10bcc0a3.js",
     "runtime~main.js.map": "/assassin/static/js/runtime~main.10bcc0a3.js.map",
     "static/js/2.d6a534e5.chunk.js": "/assassin/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/assassin/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/assassin/index.html",
-    "precache-manifest.6ce0b4194931276b22790944b9503b70.js": "/assassin/precache-manifest.6ce0b4194931276b22790944b9503b70.js",
+    "precache-manifest.d8816e62a9c0ab8d7830e7cfec479eee.js": "/assassin/precache-manifest.d8816e62a9c0ab8d7830e7cfec479eee.js",
     "service-worker.js": "/assassin/service-worker.js",
     "static/css/main.21053b57.chunk.css.map": "/assassin/static/css/main.21053b57.chunk.css.map"
   }
